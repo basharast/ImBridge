@@ -1,0 +1,4 @@
+/* TestPayload Resource File */
+
+/* Audio Resources - ID 100 matches PlayResourceWAV(100) */
+100 WAVE "click.wav"

@@ -1,0 +1,8 @@
+/* Cube3D Resource File */
+#include "resource.h"
+
+/* Texture Resource - PNG */
+IDR_TEXTURE_IMM RCDATA "bitmaps\\imm.png"
+
+/* Shader Resource - HLSL source code */
+IDR_SHADER_GPU RCDATA "gpu.hlsl"

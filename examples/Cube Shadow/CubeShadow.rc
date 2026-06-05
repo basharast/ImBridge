@@ -1,0 +1,5 @@
+/* CubeShadow Resource File */
+#include "resource.h"
+
+/* Shader Resource - HLSL source code */
+IDR_SHADER_SHADERS RCDATA "shaders.hlsl"
