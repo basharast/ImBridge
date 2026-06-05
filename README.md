@@ -13,4 +13,4 @@ https://github.com/user-attachments/assets/e1cdf190-843b-4e0a-8a6f-bf47f47043c9
 
 Checkout this repo [click here](https://mega.nz/folder/L1QmmBZT#fpcxKvK8DqcG0mfIRbTKgQ)
 
-or simply from ImMobile `MEGA` section open ImMobile repo and choose `Desktop Bridge`
+or simply from ImMobile `MEGA` section open ImMobile repo and choose `ImBridge`
